@@ -3,26 +3,22 @@
         {
         "NAME":"El Gaucho",
         "TYPE":"Restaurant",
-        "STYLE":"Undefined",
-        "DISTANCE":80
+        "STYLE":"Undefined"
         },
         {
         "NAME":"Das Moped",
         "TYPE":"Cafe",
-        "STYLE":"Undefined",
-        "DISTANCE":110
+        "STYLE":"Undefined"
         },
         {
         "NAME":"Mandu & Co",
         "TYPE":"Restaurant",
-        "STYLE":"Koreanisch",
-        "DISTANCE":120
+        "STYLE":"Koreanisch"
         },
         {
         "NAME":"NORDSEE",
         "TYPE":"Restaurant",
-        "STYLE":"Undefined",
-        "DISTANCE":130
+        "STYLE":"Undefined"
         }
     ]
 }
