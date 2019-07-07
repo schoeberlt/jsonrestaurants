@@ -1,26 +1,28 @@
-[
-    {
-       "NAME":"El Gaucho",
-       "TYPE":"Restaurant",
-       "STYLE":"Undefined",
-       "DISTANCE":80
-    },
-    {
-       "NAME":"Das Moped",
-       "TYPE":"Cafe",
-       "STYLE":"Undefined",
-       "DISTANCE":110
-    },
-    {
-       "NAME":"Mandu & Co",
-       "TYPE":"Restaurant",
-       "STYLE":"Koreanisch",
-       "DISTANCE":120
-    },
-    {
-       "NAME":"NORDSEE",
-       "TYPE":"Restaurant",
-       "STYLE":"Undefined",
-       "DISTANCE":130
-    }
-]
+{ "restaurants": 
+    [
+        {
+        "NAME":"El Gaucho",
+        "TYPE":"Restaurant",
+        "STYLE":"Undefined",
+        "DISTANCE":80
+        },
+        {
+        "NAME":"Das Moped",
+        "TYPE":"Cafe",
+        "STYLE":"Undefined",
+        "DISTANCE":110
+        },
+        {
+        "NAME":"Mandu & Co",
+        "TYPE":"Restaurant",
+        "STYLE":"Koreanisch",
+        "DISTANCE":120
+        },
+        {
+        "NAME":"NORDSEE",
+        "TYPE":"Restaurant",
+        "STYLE":"Undefined",
+        "DISTANCE":130
+        }
+    ]
+}
